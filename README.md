@@ -8,6 +8,7 @@
 <p>If you feel like it, check out what I've been doing:</p>
 <ul>
   <li><a href="https://github.com/DominikZabinski/social_media">social media stuff</a></li>
+  <li><a href="https://github.com/DominikZabinski/sfpu">toy package containing functions that come in handy way too often in ad-hoc work</a></li>
 </ul>
 <h3 align="left">Get in touch:</h3>
 <p align="left">
