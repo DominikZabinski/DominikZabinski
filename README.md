@@ -7,7 +7,7 @@
 </ul>
 <p>If you feel like it, check out what I've been doing:</p>
 <ul>
-  <li>social media stuff</li>
+  <li><a href="https://github.com/DominikZabinski/social_media">social media stuff</a></li>
 </ul>
 <h3 align="left">Get in touch:</h3>
 <p align="left">
