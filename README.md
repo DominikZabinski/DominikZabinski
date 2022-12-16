@@ -5,7 +5,10 @@
   <li>generative art</li>
   <li>health and social issues</li>
 </ul>
-
+<p>If you feel like it, check out what I've been doing:</p>
+<ul>
+  <li>social media stuff</li>
+</ul>
 <h3 align="left">Get in touch:</h3>
 <p align="left">
 <a href="https://twitter.com/zabinskidominik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zabinskidominik" height="30" width="40" /></a>
